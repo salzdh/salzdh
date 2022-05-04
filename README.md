@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salzdh
+- 👋 Hi, I’m Saeed.
 - 👀 I’m interested in Go, JS, Data and ML.
 - 🌱 I’m currently learning Data and ML.
 - 💞️ I’m looking to collaborate on any challenge.
